@@ -1,0 +1,19 @@
+.img{
+    width: 100%;
+    object-fit: cover;
+}
+.border{
+    border: 1px solid rgb(255, 255, 255);
+}
+.borde{
+    border: 1px solid rgb(255, 255, 255);
+}
+.habilidades{
+    background-color: #f3f3f3;
+}
+.zoom{
+    transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(1.05);
+}
